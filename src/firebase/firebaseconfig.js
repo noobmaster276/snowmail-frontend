@@ -5,7 +5,7 @@ import { getStorage } from 'firebase/storage';
 // Your Firebase configuration object (replace with your actual config)
 const firebaseConfig = {
   apiKey: "AIzaSyAUolx22RNHHS9irnWIDjhTg4HGQiI8Oug",
-  authDomain: "snowmail-frontend.vercel.app",
+  authDomain: "lead-generator-b7ec1.firebaseapp.com",
   projectId: "lead-generator-b7ec1",
   storageBucket: "lead-generator-b7ec1.firebasestorage.app",
   messagingSenderId: "352052635711",
